@@ -27,6 +27,7 @@ def readfile(filename):
     print()
     print('#'*80)
     print()
+    print("----------------------------")
 
 def main():
     # Check the arguments passed to the script
